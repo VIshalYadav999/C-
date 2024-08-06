@@ -1,0 +1,14 @@
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.AssemblyInfoInputs.cache
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.AssemblyInfo.cs
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.csproj.CoreCompileInputs.cache
+C:\Users\ajay\Documents\New folder\ASPNET\bin\Debug\net8.0\ASPNET.exe
+C:\Users\ajay\Documents\New folder\ASPNET\bin\Debug\net8.0\ASPNET.deps.json
+C:\Users\ajay\Documents\New folder\ASPNET\bin\Debug\net8.0\ASPNET.runtimeconfig.json
+C:\Users\ajay\Documents\New folder\ASPNET\bin\Debug\net8.0\ASPNET.dll
+C:\Users\ajay\Documents\New folder\ASPNET\bin\Debug\net8.0\ASPNET.pdb
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.dll
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\refint\ASPNET.dll
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.pdb
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ASPNET.genruntimeconfig.cache
+C:\Users\ajay\Documents\New folder\ASPNET\obj\Debug\net8.0\ref\ASPNET.dll
